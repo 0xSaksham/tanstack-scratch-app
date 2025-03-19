@@ -19,7 +19,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "unenv": "^1.10.0",
-    "vinxi": "^0.5.3"
+    "vinxi": "^0.5.3",
+    "wrangler": "^4.2.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
